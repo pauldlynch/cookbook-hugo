@@ -1,0 +1,18 @@
+#!/bin/sh
+#
+# dry run: /usr/local/bin/rsync -avzhe ssh i--dry_run --delete --progress ${USER}@${HOST}:${DIR}
+#
+# live: /usr/local/bin/rsync -avzhe ssh --delete --progress ${USER}@${HOST}:${DIR}
+# 
+
+USER=paullynch
+HOST=paullynch.org             
+DIR=/home/paullynch/paullynch.org/cookbook/   # the directory where your web site files should go
+
+echo "must execute in the hugo site foyer (e.g. cookbook)"
+
+rm -r ./public
+hugo && /usr/local/bin/rsync -avzh --delete --progress public/ ${USER}@${HOST}:${DIR}
+
+exit 0
+

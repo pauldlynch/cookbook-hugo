@@ -1,0 +1,45 @@
+baseURL = "http://paullynch.org/cookbook/"
+languageCode = "en-us"
+title = "Student Cookbook"
+theme = "mainroad"
+disqusShortname = "pauldlynch"
+
+[Author]
+  name = "Paul Lynch"
+  avatar = "paul.png"
+  bio = "Paul learned to cook alongside his mother during long school holidays in an earlier time."
+
+[Params]
+  copyright = "Paul Lynch"
+  description = "Simple recipes for everyday use"
+  toc = false
+  pager = true
+  # highlightColor = "#e22d30"
+  highlightColor = "blue"
+  post_meta = ["author", "date", "categories"]
+  mainSections = ["recipes", "news"]
+
+[Params.logo]
+  subtitle = "Simple recipes for everyday use"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = true
+
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "pauldlynch"
+  instagram = "pauldlynch"
+  github = "pauldlynch"
+  email = "paul@plsys.co.uk"
+
+[[Params.widgets.social.custom]]
+  title = "Paul Lynch Home Page"
+  url = "http://paullynch.org"

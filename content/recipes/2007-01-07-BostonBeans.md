@@ -1,0 +1,20 @@
+---
+categories: ["Sides"]
+date: "2007-01-07T00:00:00Z"
+group: recipe
+tags: ["beans", "ham"]
+title: Boston Baked Beans
+---
+
+- 500g/1 lb haricot/navy beans
+- 85g/4 tbs treacle/molasses
+- 1 tsp salt
+- 1 medium onion
+- 55g/2 oz dark brown sugar
+- 2 tbs mustard - dijon or english (NOT American)
+- optional:
+  up to 225g/8oz ham/pancetta/bacon, coarsely chopped.
+
+soak beans overnight, then drain and cover with water; boil briskly for ten minutes, then high simmer to tender - about 30-40 minutes, depending on the age of the beans.
+
+In a casserole/bean pot put all the rest of the ingredients, including the pork if desired, then add the beans, and just cover them with the cooking water from the beans and any extra boiling water from a kettle that may be required.  Bake for 2 - 3 hours at 175C/350F covered, then uncover for another 30 minutes to form a crust.  Check for liquid from time to time.
