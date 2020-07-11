@@ -10,7 +10,7 @@ disqusShortname = "pauldlynch"
   bio = "Paul learned to cook alongside his mother during long school holidays in an earlier time."
 
 [Params]
-  copyright = "Paul Lynch"
+  copyright = "Copyright © 2020, Paul Lynch; all rights reserved."
   description = "Simple recipes for everyday use"
   toc = false
   pager = true
@@ -26,7 +26,7 @@ disqusShortname = "pauldlynch"
   home = "right"
   list = "right"
   single = "right"
-  widgets = ["search", "recent", "categories", "taglist", "social"]
+  widgets = ["recent", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5
@@ -43,3 +43,22 @@ disqusShortname = "pauldlynch"
 [[Params.widgets.social.custom]]
   title = "Paul Lynch Home Page"
   url = "http://paullynch.org"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Search"
+    post = ""
+    url = "/search"
+    weight = -0
+
+
+
+
