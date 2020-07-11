@@ -1,18 +1,19 @@
 ---
 categories: ["Dessert", "Cookies", "Biscuits"]
 date: "2008-02-18T00:00:00Z"
+lastmod: "2020-07-04T20:00:00Z"
 group: recipe
 tags: ["oats"]
 title: Flapjacks
 ---
 
 - 150 g unsalted butter
-- 75 g light borne or demarara sugar
+- 75 g light brown or demerara sugar
 - 3 tbs golden syrup
 - 250 g rolled oats
 - 1 tsp ground ginger (optional)
 
-melt butter and stir in sugar and syrup, then oats and ginger.
+Melt butter and stir in sugar and syrup, then oats and ginger (if using).
 
 Press into a 20cm square tin, or equivalent baking tray.
 

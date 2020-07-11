@@ -1,6 +1,7 @@
 ---
 categories: ["Biscuits", "Cookies"]
 date: "2007-03-11T00:00:00Z"
+lastmod: "2020-07-04T19:57:00Z"
 group: recipe
 tags: ["oats"]
 title: Oat Biscuits
@@ -17,5 +18,5 @@ Flakemeal biscuits, from Margaret Bates 'Talking About Cakes'.  I have never see
 - pinch baking soda
 
 Cream the butter and sugar.  Mix in the rest of the ingredients.  Roll
-out on a floured board to roughly the thickness of a pound coin, and
+out on a floured board to roughly the thickness of a pound coin (3mm), and
 cut into biscuit shapes.  Bake for 20-25 minutes at 190 C / 375 F, or until golden brown.

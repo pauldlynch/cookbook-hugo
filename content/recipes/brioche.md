@@ -1,6 +1,7 @@
 ---
 title: "Brioche"
 date: 2020-06-16T10:51:47+01:00
+lastmod: 2020-07-08T10:31:00+01:00
 draft: false
 categories: [bread, cakes]
 tags: 
@@ -26,7 +27,7 @@ Repeat (turn out, stretch, shape into ball, put back in bowl).
 
 Leave in cool place for 12-14 hours (larder, not fridge, depending on temperature).
 
-Divide into 15 70g balls, shape, and freeze. (Or: let rise 2.5 hours, then bake)
+Divide into 15 70g balls, shape, allow to prove for about one hour, and freeze. (Or: let rise 2.5 hours, then bake)
 
 Take out from freezer as required, leave overnight to “rise”, then bake for 12 minutes at 190C. May need a couple of minutes further to brown the underside, depending on your baking tins.
 

@@ -3,7 +3,6 @@ layout: page
 title: Featured Recipes
 tagline: Easy recipes for everyday living
 menu: main
-sidebar: right
 pager: false
 ---
 
