@@ -1,12 +1,13 @@
 ---
 title: "Burnt Basque Cheesecake"
 date: 2020-06-16T16:18:23+01:00
+lastmod: 2020-07-21T10:01:23+01:00
 draft: false
 categories: [cakes]
 tags: [cheese]
 ---
 
-{{< figure src="./IMG_0764.jpeg" title="Burnt Basque Cheesecake" alt="Burnt Basque Cheesecake" >}}
+{{< figure src="./IMG_0952.jpeg" title="Burnt Basque Cheesecake" alt="Burnt Basque Cheesecake" >}}
 
 Originally from La Viña, San Sebastian, I took this recipe from [Bon Appetit]( https://www.bonappetit.com/recipe/basque-burnt-cheesecake), which is reasonably close to the original.
 
@@ -28,6 +29,6 @@ Add eggs one at a time on medium. Back to med/low, add cream, salt and vanilla.
 
 Turn off and sift in flour. As I had small lumps left in mine after stirring in, it might be worth putting through a fine sieve into the lined pan.
 
-Put in pan, bake 60-65 minutes.  Top should be deep caramel colour, but still very jiggly.
+Put in pan, bake 60-65 minutes.  Top should be deep caramel colour, but still very jiggly in the middle, firmer in the outer ring.
 
 Cool, unfold, serve.
