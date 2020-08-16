@@ -1,6 +1,7 @@
 ---
-categories: ["Fowl"]
+categories: ["Main"]
 date: "2008-07-30T00:00:00Z"
+lastmod: "2020-08-02T21:50:00Z"
 group: recipe
 tags: ["chicken"]
 title: Chicken with Bones and Vinegar

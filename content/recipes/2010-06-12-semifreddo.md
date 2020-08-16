@@ -1,6 +1,7 @@
 ---
 categories: ["Dessert"]
 date: "2010-06-12T00:00:00Z"
+lastmod: "2020-07-22T19:53:00Z"
 lead: Should serve six
 group: recipe
 tags: []
@@ -43,9 +44,9 @@ Serve with soft fruits or thin biscuits.
 
 - 350g hazelnuts
 - 200g sugar
-- 4 tbs water
+- 60ml/4 tbs water
 
-You want skinless and roast hazelnuts - although you can make perfectly good praline with almonds or pecans, hazelnuts are traditional.  To skin the nuts, roast them first, and the skins will come off easily by rubbing between your hands.  You can roast them on a frying pan or griddle over low heat, or in a low/medium oven; be careful, as they will burn easily.  Lightly grease a large baking skeet or tray.  Put the sugar and water into an old saucepan over high heat, and stir until it is caramel.  For the first several minutes it will first dissolve, then do a good impression of a sticky, bubbling mess.  You will eventually see a colour change to brown/caramel, slowly at first, then very quickly.  You want to catch it at the point where the colour change is starting to go fast, before it burns.  Slightly burnt caramel is a good flavour; very burnt isn't.  At this point add the nuts and briefly stir to coat them, then pour out onto your baking sheet.  Spread out into a single layer, and turn back any escaped caramel.  Allow to cool, which takes no time at all, then break up and feed to a food processor.  Ideally, praline is a fine powder, but for adding to the iced mixture some bigger lumps make it more interesting.
+You want skinless and roast hazelnuts - although you can make perfectly good praline with almonds or pecans, hazelnuts are traditional.  To skin the nuts, roast them first, and the skins will come off easily by rubbing between your hands, or in a tea towel.  You can roast them on a frying pan or griddle over low heat, or in a low/medium oven; be careful, as they will burn easily.  Lightly grease a large baking skeet or tray.  Put the sugar and water into an old saucepan over high heat, and stir until it is caramel.  Over the first several minutes it will first dissolve, then do a good impression of a sticky, bubbling mess.  You will eventually see a colour change to brown/caramel, slowly at first, then very quickly.  You want to catch it at the point where the colour change is starting to go fast, before it burns.  Slightly burnt caramel is a good flavour; very burnt isn't.  At this point add the nuts and briefly stir to coat them, then pour out onto your baking sheet.  Spread out into a single layer, and turn back any escaped caramel.  Allow to cool, which takes no time at all, then break up and feed to a food processor.  Ideally, praline is a fine powder, but for adding to the iced mixture some bigger lumps make it more interesting.
 
 ## Strawberry
 

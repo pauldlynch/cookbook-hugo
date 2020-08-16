@@ -32,7 +32,6 @@ disqusShortname = "pauldlynch"
   recent_num = 5
   tags_counter = true
 
-
 [Params.widgets.social]
   # Enable parts of social widget
   twitter = "pauldlynch"
@@ -52,6 +51,12 @@ disqusShortname = "pauldlynch"
     name = "Home"
     url = "/"
     weight = -110
+
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news"
+    weight = -00
 
   [[menu.main]]
     name = "Search"

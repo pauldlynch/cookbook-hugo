@@ -1,6 +1,7 @@
 ---
-categories: ["Fowl"]
+categories: ["Main"]
 date: "2008-01-31T00:00:00Z"
+lastmod: "2020-08-16T20:39:00Z"
 group: recipe
 tags: ["chicken"]
 title: Chicken Piccata
@@ -24,4 +25,5 @@ Fry the breasts for about 2 minutes on each side, until lightly browned on the o
 
 Dress with parsley and serve.  Plain rice or pasta goes well with this, as will baby new potatoes.
 
-Variation: can dress with chopped parsley; can thicken with flour at the start instead of the cream; can add the juice of half a lemon.  Can also use half an onion softened in the oil after cooking the chicken.
+## Variation
+You can dress with chopped parsley; can thicken with flour at the start instead of the cream; can add the juice of half a lemon.  Can also use half an onion softened in the oil after browning the chicken.

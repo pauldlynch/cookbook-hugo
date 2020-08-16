@@ -1,35 +1,31 @@
 ---
-title: "Scones"
-date: 2020-06-15T22:15:45+01:00
-lastmod: 2020-16-15T22:18:54+01:00
-draft: false
-categories: [Cakes]
-tags: 
+categories: ["Cakes"]
+date: "2009-02-06T00:00:00Z"
+lastmod: "2020-08-11T22:08:00Z"
+group: recipe
+title: Scones
 ---
 
-{{< figure src="./IMG_0904.jpeg" title="Scones" >}}
+Makes about six fair sized scones. To be honest, I prefer to double up quantities.
 
-Recipe from Richard Bertinet's Dough. Makes 10 - 15 scones.
+{{< figure src="./IMG_0973.jpeg" title="Scones" >}}
 
-- 150g butter (salted, or add a small pinch of salt)
-- 600g plain flour
-- 150g caster sugar
-- 40g baking powder
-- 280g sultanas
-- 190ml double cream
-- 190ml milk
-- 1 egg for egg wash
+- 220g / 8oz self-raising flour
+- pinch of salt
+- 60g / 2oz butter
+- 30g / 1 oz caster sugar
+- 60 - 120ml/2 - 4 fl oz milk
 
-Rub in butter and flour to the texture of breadcrumbs. Stir well in the sugar and baking powder, then the sultanas.
+Mix the flour and salt, then rub in the butter to reach a breadcrumbs texture.  Use cool butter (and cold hands), and you can cut it into the flour with a knife before finally rubbing in with your fingers.  The aim is to reach a very fine, almost sandy, texture, without melting the butter from the heat of your hands; you should be able to feel no 'free' butter in the mix when you are done.  Use cool hands (which is why old people make better scones and children can't do it at all), with a pinching action that tries to keep a layer of flour between your fingertips and the butter at all times.  On the other hand, you can mix in a food processor using a series of very short pulses; it's not quite as good, but not horrible.
 
-Add the cream and milk, and mix to bring together into a dough. 
+Stir in the sugar, then add the milk; you want just enough to bring the mix together into a dough; most books suggest 5 fl oz for this quantity, but I wouldn't be surprised if you could get away with only 2-3 fl oz.  Add more if you need it.  The dough can take some light kneading, but keep it to an absolute minimum.
 
-On a lightly floured work surface, lightly press flat, fold in half, press flat again, then fold and press again in the opposite direction. This should end up in a squarish shape, rather like a thick book. Lightly flour, cover and leave in a cool place for 15 minutes.
+Make sure the oven is at 220C / 425F, gas mark 7/8.  Grease a baking sheet.  Roll out the dough to 2cm+ thick, then cut out into 2" rounds; you can use a jar, cup or mug.  Knead (lightly) together the scraps of dough, and repeat.  Brush the tops with a little milk (or beaten egg).
 
-Heat the oven to 220C (non-fan).
+Bake for 10 - 15 minutes, depending on the oven.  The tops should be lightly browned.  Allow to cool, and serve with jam and clotted cream or butter.
 
-Roll out into a rectangle about 3cm thick, and use a sharp knife to divide into 6cm squares. Reshape any offcuts into more squares. Place on a baking tray or two, well spaced. Brush with the egg wash, wait 2 minutes and brush again.  
+Variation: can add a half a teaspoon of baking powder with the salt.  Too much gives the scones a bitter flavour, without they can be a little bland - but it helps them to rise.
 
-Put in the 220C oven and turn down to 200C. Bake for 20 minutes, until nicely golden.
+## Note
 
-Serve with generous quantities of clotted cream and the very best strawberry jam.
+If you don't have self-raising flour, substitute 240g plain flour, mixed with 1 tsp baking powder and 0.5 tsp salt.

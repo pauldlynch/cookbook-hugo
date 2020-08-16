@@ -1,7 +1,7 @@
 ---
 categories: ["Cakes"]
 date: "2012-02-25T00:00:00Z"
-lastmod: "2020-06-18T18:13:00Z"
+lastmod: "2020-08-13T22:30:00Z"
 group: recipe
 title: Plum Streusel Coffee Cake
 tags: [plum]
@@ -60,7 +60,6 @@ Cake:
 - 1 egg
 - 1/2 cup milk - 120ml
 - 1/2 tsp salt
-
 - 16 plums
 - 1/4 cup sugar - 50g
 

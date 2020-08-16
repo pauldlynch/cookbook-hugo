@@ -1,6 +1,7 @@
 ---
 categories: ["Main"]
 date: "2010-11-10T00:00:00Z"
+lastmod: "2020-08-01T22:18:00Z"
 group: recipe
 tagline: One to four portions
 tags: ["chicken", "ham"]
@@ -41,4 +42,4 @@ Bake in a medium oven for 25 minutes, until the pastry is golden and well puffed
 
 ## Variations
 
-Could try using a small pot of cr&egrave;me fra&icirc;che instead of the white sauce.  It’s OK to use shortcrust pastr#y.
+Could try using a small pot of cr&egrave;me fra&icirc;che instead of the white sauce.  It’s OK to use shortcrust pastry instead of puff if you prefer.

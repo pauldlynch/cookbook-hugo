@@ -1,8 +1,9 @@
 ---
-categories: ["Fowl"]
+categories: ["Main"]
 date: "2009-08-26T00:00:00Z"
+lastmod: "2020-08-02T21:46:00Z"
 group: recipe
-tags: ["chicken"]
+tags: ["chicken", rice]
 title: Chicken and Rice
 ---
 

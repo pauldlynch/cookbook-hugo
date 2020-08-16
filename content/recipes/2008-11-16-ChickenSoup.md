@@ -1,6 +1,7 @@
 ---
-categories: ["Fowl", "Soup"]
+categories: ["Main", "Soup"]
 date: "2008-11-16T00:00:00Z"
+lastmod: "2020-08-02T21:48:00Z"
 group: recipe
 tags: ["chicken"]
 title: Chicken Soup/Stew
@@ -21,7 +22,7 @@ Soften the leeks and celery in a little oil, or some of the chicken fat.  Season
 
 You can make stock with the bones and skin from the thighs, although this will take somewhat longer.  I use stock made from a recent roast chicken, and use the thigh bones to make some more.  Make stock by boiling the chicken remnants (cooked or uncooked, doesn't really matter): carcass, bones, skin, waste meat, with an onion, a bay leaf, a couple of carrots and some (optional) herbs.  Make the boil very gentle, so the stock stays reasonably clear; if the carcass is from a good chicken, you need a couple of hours (2-4) to extract all the gelatine from the bones.  If it is a typical supermarket chicken, then just 1 hour.
 
-Alternatives:
+## Alternatives:
 You can use onion instead of leek.
 Add a bay leaf.
 Uses a couple of handfuls or rice or broken up pasta instead of the beans.
