@@ -1,10 +1,12 @@
 ---
 categories: ["Cakes"]
 date: "2009-08-01T00:00:00Z"
-lastmod: "2020-06-18T12:00:00Z"
+lastmod: "2020-09-21T18:15:00Z"
 group: recipe
 title: Gingerbread Cake
 ---
+
+{{< figure src="./IMG_1041.jpeg" title="Gingerbread" alt="Gingerbread" >}}
 
 Modified from Delia's Book of Cakes.
 
@@ -47,4 +49,4 @@ This recipe makes a little too much mixture for the recommended tin.
 I would suggest putting 2/3 the amount into the same tin, and using
 the rest in a small baking tray or small loaf tin, perhaps.  It would
 work in a deep 20cm/8" round cake tin, but is too much for an 20cm/8" 
-square tin!
+square tin! If you want to have two same sized cakes, you can use two 1 lb loaf tines (mine are from the 70s!), but best to reduce the cooking time by 10-15 minutes.

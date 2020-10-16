@@ -1,13 +1,17 @@
 ---
 categories: ["Cakes"]
 date: "2012-02-25T00:00:00Z"
-lastmod: "2020-08-13T22:30:00Z"
+lastmod: "2020-08-21T17:13:00Z"
 group: recipe
 title: Plum Streusel Coffee Cake
 tags: [plum]
 ---
+
+{{< figure src="./IMG_1005.jpeg" title="Plum Streusel Coffee Cake" alt="Plum Streusel Coffee Cake" >}}
+
 [Plum Streusel Coffee Cake](http://www.epicurious.com/recipes/food/views/Plum-Streusel-Coffeecake-13137)
 
+Set oven to 350F/180C.
 
 Streusel:
 
@@ -36,8 +40,7 @@ Beat butter and sugar until creamy ("fluffy" and pale), then add eggs one by one
 
 Put batter in the pan, arrange plum halves on top, then sprinkle the streusel over.
 
-350F/180C  
-9" pan  
+23 cm/9" pan  
 1 hour
 
 [Plum Streusel Coffee Cake](http://recipes.epicurean.com/recipe/3150/plum-streusel-coffee-cake.html) (another one)

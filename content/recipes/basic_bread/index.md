@@ -1,14 +1,14 @@
 ---
 categories: ["Bread", "Basics"]
 date: "2010-11-12T00:00:00Z"
-lastmod: "2020-08-13T22:20:00Z"
+lastmod: "2020-09-13T10:52:00Z"
 group: recipe
 title: Basic Bread
 ---
 
 {{< figure src="./IMG_0971.jpeg" title="Basic bread" >}}
 
-Making bread is hard. Making bread is easy. A lot of that is because making bread requires both exact attention to detail, and experience to recognise the condition of your dough. All of which means that you are going to fail a lot: at first. So as to minimise this, I'm going to try to describe a basic bread recipe that should work, with minimal opportunity to fail.
+Making bread is hard; making bread is easy. A lot of that is because making bread requires both exact attention to detail, and experience to recognise the condition of your dough. All of which means that you are going to fail a lot: at first. So as to minimise this, I'm going to try to describe a basic bread recipe that should work, with minimal opportunity to fail.
 
 Bread starts with flour, water, salt and yeast. The other main factors are time and temperature. Did you notice that I didn't mention kneading?
 
@@ -19,7 +19,7 @@ There is one core recipe for bread:
 - water: 60 - 70% by weight of the flour (sometimes more), at 25 - 30C
 - yeast: fresh or dried, the exact quantity isn't very important
 
-If you remember that, you will have to basis of making good bread every time.
+If you remember that, you will have the basis of making good bread every time.
 
 Let's put this into practice:
 

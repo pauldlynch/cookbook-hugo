@@ -1,6 +1,7 @@
 ---
 categories: ["Bread"]
 date: "2010-10-19T00:00:00Z"
+lastmod: "2020-08-17T00:00:00Z"
 group: recipe
 title: Pan co'Santi (Walnut Bread)
 ---
@@ -19,4 +20,4 @@ Mix.  Rise for 12-18 hours.
 
 Shape and dust.  Prove 1-2 hours.
 
-Bake in cast iron pot at 475F for 30 mins covered, plus an extra 15-30 mins until deep chestnut colour.
+Bake in cast iron pot at 250C/475F for 30 mins covered, plus an extra 15-30 mins until deep chestnut colour.
