@@ -1,10 +1,13 @@
 ---
 title: "Seed Cake"
 date: 2020-06-16T11:00:31+01:00
+lastmod: 2020-11-11T11:00:31+01:00
 draft: false
 categories: [cakes]
 tags: 
 ---
+
+{{< figure src="./IMG_1116.jpeg" title="Seed Cake" >}}
 
 This is a very traditional British tea cake, and I've been making it since university (as it was very cheap to make!). I'll reference [this](https://www.theguardian.com/lifeandstyle/2010/may/02/nigel-slater-classic-recipe-seed-cake) recipe from Nigel Slater, but it appears to be almost identical to the one from Delia Smith.
 

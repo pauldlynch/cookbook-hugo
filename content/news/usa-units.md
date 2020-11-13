@@ -1,7 +1,7 @@
 ---
 title: "USA Units"
 date: 2020-08-13T15:49:58+01:00
-lastmod: 2020-08-27T09:46:58+01:00
+lastmod: 2020-10-29T09:42:58+01:00
 draft: false
 categories: [Info]
 tags: 
@@ -19,6 +19,12 @@ If you don't have self-raising flour, substitute 240g plain flour, mixed with 1 
 
 And, on to the conversions...
 
+## Ounces
+
+One ounce = 28.35g (28g)
+8 oz = 226.8g (225g)
+1 lb = 453.59g (450g)
+
 ## Cups
 
 One cup in grams:
@@ -26,6 +32,7 @@ One cup in grams:
 Flour 120g  
 Sugar 200g  
 Butter 225g  
+Cream (heavy/double) 240g
 Liquid 240g  
 
 ## Spoons
@@ -39,8 +46,10 @@ tablespoon of butter: 14g
 ## Temperature
 
 300F 150C  
+325F 165C  
 350F 175C  
 360F 180C  
+375F 190C  
 450F 230C  
 475F 250C  
 
