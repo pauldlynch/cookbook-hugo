@@ -1,6 +1,7 @@
 ---
 title: "Shortbread"
 date: 2020-06-16T10:44:25+01:00
+lastmod: 2020-12-05T11:47:25+01:00
 draft: false
 categories: [biscuits, cookies]
 tags: 
@@ -25,8 +26,10 @@ Sift and add:
 - 80g rice flour/fine semolina
 - Good pinch of salt
 
-Bring together as a dough, wrap and put into fridge for 15 minutes.  Roll out to fit the baking tray.  Dust with a little caster sugar (optional), and prick with a fork in a traditional pattern.
+Bring together as a dough, the press or roll out into the baking tray.  Chill for 15 minutes. Dust with a little caster sugar (optional), and prick with a fork in a traditional pattern.
+
+Alternatively, you can put everything into a food processor at the same time and pulse, or even rub all the ingredients into breadcrumbs by hand (the crumbs will be more buttery than those for pastry).  At this stage they will form into a dough easily, but can also be readily crumbled apart by hand.
 
 Bake 1 hour to light golden, no darker.  
 
-This is enough to make a block 22 x 15 x 2cm; this thickness makes shortbread fingers, rather than shortbread biscuits. It will be easier to lay out before chilling, but will still be crumbly at that point. This size is half of a medium baking tray; you can form it on a baking sheet if required, as it won’t spread. It is best to cut into fingers while still warm; cool first in the baking tray for 10 minutes as it is very crumbly out of the oven.
+This is enough to make a block 22 x 15 x 2cm; this thickness makes shortbread fingers, rather than shortbread biscuits. Try not to over handle the dough, as it affects the end texture. This size is half of a medium baking tray; you can form it on a baking sheet if required, as it won’t spread. It is best to cut into fingers while still warm; cool first in the baking tray for 10 minutes as it is very crumbly out of the oven, but will still cut very easily.

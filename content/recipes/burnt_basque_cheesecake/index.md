@@ -1,7 +1,7 @@
 ---
 title: "Burnt Basque Cheesecake"
 date: 2020-06-16T16:18:23+01:00
-lastmod: 2020-07-21T10:01:23+01:00
+lastmod: 2020-11-15T16:13:23+01:00
 draft: false
 categories: [cakes]
 tags: [cheese]
@@ -11,7 +11,7 @@ tags: [cheese]
 
 Originally from La Viña, San Sebastian, I took this recipe from [Bon Appetit]( https://www.bonappetit.com/recipe/basque-burnt-cheesecake), which is reasonably close to the original.
 
-Requires a 25cm (10”) springform pan.
+Uses a 25cm (10”) springform pan (I only have a 9" pan, which takes a few minutes longer to cook).
 
 - 2 lb/900g cream cheese
 - 1.5 cups/300g sugar
@@ -21,7 +21,7 @@ Requires a 25cm (10”) springform pan.
 - 1 tsp vanilla extract
 - 1/3 cup/40g plain flour
 
-Heat oven to 400F/200C. Grease pan and line with parchment, 2x 20x30cm(16x12”) sheets, to at least 5cm (2”) above top of pan.  Crinkle it up.
+Heat oven to 400F/205C. Grease pan and line with parchment, 2x 20x30cm(16x12”) sheets, to at least 5cm (2”) above top of pan.  Crinkle it up.
 
 Beat cream cheese and sugar to smooth (2 mins on medium/low).
 

@@ -1,6 +1,7 @@
 ---
 title: "Christmas Cake"
 date: 2020-07-24T11:21:46+01:00
+lastmod: 2020-11-23T14:05:46+01:00
 draft: false
 categories: [cakes]
 tags: 
@@ -19,13 +20,13 @@ The same basic recipe is in Delia's Book of Cakes, and [online](https://www.deli
 - 50g glacé cherries, rinsed & chopped
 - 50g candied peel, chopped ("dried mixed fruit", 900g can be used instead or the last five ingredients)
 - 3 tbs brandy (100ml), or any brown spirit (brandy, rum, whisky)
+- 225g unsalted butter
+- 225g soft brown sugar
+- 4 eggs
 - 225g plain flour
 - 0.5 tsp salt
 - 0.25 tsp nutmeg
 - 0.5 tsp mixed spice
-- 225g unsalted butter
-- 225g soft brown sugar
-- 4 eggs
 - 50g almonds, chopped (or more)
 - 1 dsp black treacle
 - zest 1 lemon
